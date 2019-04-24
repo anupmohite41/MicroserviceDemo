@@ -10,6 +10,7 @@ public class CallingServiceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CallingServiceApplication.class, args);
+		System.out.println("Applcation Started");
 	}
 
 }
