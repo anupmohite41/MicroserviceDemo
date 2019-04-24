@@ -10,7 +10,7 @@ public class CallingServiceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CallingServiceApplication.class, args);
-		System.out.println("Applcation Started by Eclipse in Anup Test Branch");
+		System.out.println("Applcation Started by Eclipse in Anup Test Branch from Eclipse");
 	}
 
 }
